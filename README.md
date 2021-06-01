@@ -12,7 +12,8 @@ make clean
 # USAGE
 ```bash
 ./my_cook
-# OPTIONS (the game will not launch)
+
+#OPTIONS (the game will not launch)
 -h --help
 -AR [$name] [$ingredient1,$ingredient2...] Add a recipe.
 -RR [$number]                              Remove a recipe.
